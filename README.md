@@ -1,4 +1,4 @@
-### Hi, I'm Mohamed — Backend Developer
+### Hi, I'm Mohammed — Backend Developer
 
 I build backend systems and APIs with Node.js/TypeScript, focused on clean architecture, databases, and production-readiness.
 
