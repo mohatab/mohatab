@@ -45,48 +45,6 @@ honestly — what's done is done, what's in progress is labeled as such.
 
 ---
 
-## 🚀 Featured Projects
-
-### [`ecommerce-backend`](https://github.com/mohatab/ecommerce-backend)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![CI](https://github.com/mohatab/ecommerce-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/mohatab/ecommerce-backend/actions/workflows/ci.yml)
-
-An e-commerce backend built phase by phase, with a strict focus on
-architecture, testing, and CI discipline over feature speed.
-
-- NestJS + TypeScript (strict mode), config validation, health checks
-- PostgreSQL + Prisma, pagination primitives, typed error mapping
-- Docker (Postgres), Swagger/OpenAPI docs
-- CI: lint, build, unit + e2e tests against a real database, Docker image build
-
-**Status:** Foundation & CI complete → Authentication (next phase) → Products,
-Orders, Payments (planned). Not yet feature-complete — see the [repo
-README](https://github.com/mohatab/ecommerce-backend#project-status) for the
-full phase breakdown.
-
-### [`recruitment-investment-api`](https://github.com/mohatab/recruitment-investment-api)
-
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-[![CI](https://github.com/mohatab/recruitment-investment-api/actions/workflows/ci.yml/badge.svg)](https://github.com/mohatab/recruitment-investment-api/actions/workflows/ci.yml)
-
-A Node.js/Express + MongoDB REST API combining a recruitment platform with
-investor–startup management and real-time notifications.
-
-- JWT-authenticated signup/login, including CV-upload registration
-- Job postings, applications, investor & startup profile management
-- Real-time notifications and chat over Socket.IO
-- Swagger/OpenAPI docs, Jest + Supertest test suite, GitHub Actions CI
-
----
-
 ## 🎯 Engineering Focus
 
 | | |
