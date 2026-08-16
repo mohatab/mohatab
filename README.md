@@ -6,6 +6,8 @@ I design and build REST APIs and backend systems, with a focus on clean
 architecture, data modeling, and shipping things that are actually tested
 and documented — not just running on `localhost`.
 
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-158319239)
+
 ## About
 
 I care about the parts of backend work that don't show up in a demo: request
