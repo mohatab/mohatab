@@ -3,9 +3,9 @@
 I build backend systems and APIs with Node.js/TypeScript, focused on clean
 architecture, databases, and production-readiness.
 
-**Backend stack:** Node.js · TypeScript · NestJS · Express · PostgreSQL ·
-Prisma · MongoDB · JWT · Docker · GitHub Actions (CI) · Swagger/OpenAPI ·
-Socket.IO
+**Backend stack:** Node.js · TypeScript · JavaScript · NestJS · Express ·
+PostgreSQL · Prisma · MongoDB · JWT · Docker · GitHub Actions (CI) ·
+Jest · Supertest · Swagger/OpenAPI · Socket.IO
 
 ## Featured projects
 
@@ -18,10 +18,11 @@ build), and Swagger docs. Authentication and the core domain (products,
 orders, payments) are the next phases in progress.
 
 **[`recruitment-investment-api`](https://github.com/mohatab/recruitment-investment-api)**
-A Node.js/Express REST API combining a recruitment platform (job postings,
-CV-based applications) with an investor–startup management system. JWT
-authentication, Stripe payments, and real-time notifications/chat over
-Socket.IO, documented with Swagger.
+A Node.js/Express + MongoDB REST API combining a recruitment platform (job
+postings, CV-based applications) with an investor–startup management system.
+JWT authentication, Stripe payments, and real-time notifications/chat over
+Socket.IO, documented with Swagger/OpenAPI. Jest/Supertest test suite and a
+GitHub Actions CI pipeline.
 
 ## Engineering focus
 
@@ -32,7 +33,8 @@ Socket.IO, documented with Swagger.
 - **Validation** — `class-validator` DTOs (NestJS), Joi schemas
 - **Error handling** — structured global exception filters / centralized
   error middleware, consistent JSON error responses
-- **Testing** — Jest unit and end-to-end tests against a real database
-- **CI/CD** — GitHub Actions pipelines (lint, build, test, Docker image build)
+- **Testing** — Jest unit/e2e tests against a real database (`ecommerce-backend`),
+  Jest + Supertest smoke tests (`recruitment-investment-api`)
+- **CI / GitHub Actions** — automated lint, build, and test pipelines on every push
 - **Real-time** — Socket.IO for live notifications and chat
 - **Containerization** — Docker / Docker Compose
