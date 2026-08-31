@@ -6,7 +6,7 @@ I design and build REST APIs and backend systems, with a focus on clean
 architecture, data modeling, and shipping things that are actually tested
 and documented — not just running on `localhost`.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/mohatab)
+**Connect:** [Links](https://beacons.ai/mohatab) · [LinkedIn](https://www.linkedin.com/in/mohatab) · [Email](mailto:mohamedhatab884@gmail.com)
 
 ## About
 
@@ -14,6 +14,16 @@ I care about the parts of backend work that don't show up in a demo: request
 validation, structured error handling, schema design, and CI that actually
 catches regressions. My projects are built incrementally and documented
 honestly — what's done is done, what's in progress is labeled as such.
+
+---
+
+## Projects
+
+**[E-Commerce Backend](https://github.com/mohatab/ecommerce-backend)** — NestJS · TypeScript · PostgreSQL/Prisma · Docker · GitHub Actions  
+In progress. Clean architecture, Swagger docs, and CI that runs on every push.
+
+**[Recruitment & Investment API](https://github.com/mohatab/recruitment-investment-api)** — Node.js · Express · MongoDB · JWT · Socket.IO  
+Job postings and CV applications plus investor/startup management, with real-time notifications, Swagger docs, and Jest tests.
 
 ---
 
