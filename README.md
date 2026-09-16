@@ -17,16 +17,6 @@ honestly — what's done is done, what's in progress is labeled as such.
 
 ---
 
-## Projects
-
-**[E-Commerce Backend](https://github.com/mohatab/ecommerce-backend)** — NestJS · TypeScript · PostgreSQL/Prisma · Docker · GitHub Actions  
-In progress. Clean architecture, Swagger docs, and CI that runs on every push.
-
-**[Recruitment & Investment API](https://github.com/mohatab/recruitment-investment-api)** — Node.js · Express · MongoDB · JWT · Socket.IO  
-Job postings and CV applications plus investor/startup management, with real-time notifications, Swagger docs, and Jest tests.
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend & Language**
